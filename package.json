@@ -1,0 +1,19 @@
+{
+  "name": "heic_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ffmpeg": "brew install x265 && brew uninstall ffmpeg && brew install ffmpeg --with-x265",
+    "exec" :"node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "asap": "^2.0.5",
+    "fast-glob": "1.0.1",
+    "file-size": "^1.0.0",
+    "nunjucks": "^3.0.1",
+    "shelljs": "0.7.8"
+  }
+}
