@@ -1,6 +1,6 @@
 heif_webp
 
-using the nodejs script to batch generate webp and heic file than using vue.js show it
+using the nodejs script to batch generate webp and heic file 
 
 ![Resut](http://oltk95zvf.bkt.clouddn.com/github/result.png "Optional Title")
 
@@ -22,9 +22,7 @@ or use
 
 last
 
+    put some jpg file to pics
     npm run exec;
+    than webp and heic will in dist dir
 
-
-## TODO
-
-    vue.js show the file ing
