@@ -18,6 +18,7 @@ or use
     brew install x265;
     brew uninstall ffmpeg;
     brew install ffmpeg --with-x265;
+    brew install webp;
 
 
 last
